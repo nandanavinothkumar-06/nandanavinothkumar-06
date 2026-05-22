@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Nandana Vinoth Kumar
+# Hi there 👋 I'm Nandana Vinothkumar
 
 🎓 Integrated M.Tech CSE (Data Science) Student at VIT Vellore  
 📊 Aspiring Data Analyst | Data Science Enthusiast | AI/ML Learner  
