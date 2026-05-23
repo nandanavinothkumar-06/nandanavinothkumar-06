@@ -18,7 +18,7 @@ I'm Nandana Vinothkumar
 
 ---
 
-## ✨ Tech Stack
+## 🖥️ Tech Stack
 
 ### Programming & Data Tools
 - Python
