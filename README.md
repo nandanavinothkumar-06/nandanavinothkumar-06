@@ -1,4 +1,6 @@
-# Hi there 👋 I'm Nandana Vinothkumar
+# Hi there !
+
+I'm Nandana Vinothkumar
 
 🎓 Integrated M.Tech CSE (Data Science) Student at VIT Vellore  
 📊 Aspiring Data Analyst | Data Science Enthusiast | AI/ML Learner  
@@ -6,17 +8,17 @@
 
 ---
 
-## 🚀 About Me
+## ✨ About Me
 
-- 📚 Specializing in Data Science and Analytics
-- 🔍 Interested in Data Analysis, Machine Learning, AI, and Business Intelligence
-- 🛠️ Building practical projects using Python, data visualization, and analytics tools
-- 🌱 Currently learning advanced Data Analytics, SQL, Power BI, and Machine Learning workflows
-- 🎯 Focused on becoming industry-ready through hands-on projects and continuous learning
+-  Specializing in Data Science and Analytics
+-  Interested in Data Analysis, Machine Learning, AI, and Business Intelligence
+-  Building practical projects using Python, data visualization, and analytics tools
+-  Currently learning advanced Data Analytics, SQL, Power BI, and Machine Learning workflows
+-  Focused on becoming industry-ready through hands-on projects and continuous learning
 
 ---
 
-## 🧰 Tech Stack
+## ✨ Tech Stack
 
 ### Programming & Data Tools
 - Python
@@ -42,30 +44,30 @@
 
 ## 📌 Featured Projects
 
-### 📊 Sales Data Analysis and Business Insights
+###  Sales Data Analysis and Business Insights
 Comprehensive retail sales analysis project using Python, Pandas, Matplotlib, and Seaborn to uncover business insights, profitability trends, customer behavior, and data-driven recommendations.
 
-### 🌸 Iris Flower Classification
+###  Iris Flower Classification
 Machine Learning project for classifying Iris flower species using Logistic Regression, KNN, Decision Tree, and Random Forest algorithms with data visualization techniques.
 
-### 📈 Sales Prediction using Machine Learning
+###  Sales Prediction using Machine Learning
 Data Science project focused on predicting product sales using regression modeling and exploratory data analysis.
 
-### 🛒 Smart Market Network
+###  Smart Market Network
 AI-enabled smart retail platform designed to manage inventory, orders, and customer interactions using intelligent analytics and automation concepts.
 
-### 🏥 Welltrack-AI
+###  Welltrack-AI
 Interactive healthcare tracking platform leveraging cloud architecture and AI-based insights to encourage healthy lifestyle habits and progress monitoring.
 
-### 🛍️ Smart Grocery Store
+###  Smart Grocery Store
 Progressive Web Application (PWA) developed for a grocery store to provide a responsive and application-like shopping experience.
 
-### ✈️ TravelMode Dashboard
+###  TravelMode Dashboard
 Interactive travel analytics dashboard designed to analyze tourism patterns, user preferences, and destination insights using data visualization techniques.
 
 ---
 
-## 📈 Currently Working On
+##  Currently Working On
 
 - Data Analysis Projects
 - Power BI Dashboards
@@ -76,7 +78,7 @@ Interactive travel analytics dashboard designed to analyze tourism patterns, use
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 - LinkedIn: www.linkedin.com/in/nandana-vinothkumar-46580028a
 - GitHub: https://github.com/nandanavinothkumar-06
